@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-wordpress-balsa-starter",
+  "name": "gatsby-wordpress-novela-starter",
   "description": "A Gatsby starter for creating blogs from headless WordPress CMS.",
   "version": "1.0.0",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "react-dom": "^16.13.0"
   },
   "dependencies": {
-    "@draftbox-co/gatsby-wordpress-novela-theme": "^1.0.1",
+    "@draftbox-co/gatsby-wordpress-novela-theme": "^1.0.2",
     "dotenv": "^8.2.0",
     "gatsby": "2.20.24",
     "gatsby-plugin-crisp-chat": "^3.2.2",
