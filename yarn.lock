@@ -1094,10 +1094,10 @@
     theme-ui "^0.0.10"
     url-parse "^1.4.7"
 
-"@draftbox-co/gatsby-wordpress-novela-theme@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-novela-theme/-/gatsby-wordpress-novela-theme-1.0.1.tgz#7ba4c18d5cb984726c225cf3c7dd1be82b2dfdfe"
-  integrity sha512-6AW6N55V7dhgle6bDpKL5mcKYgELuzjsF3Yk67kGDp6x9N0Z09PHxGe0dzgu4JnAfiXdpMN6RzrVt6Awb6UMfw==
+"@draftbox-co/gatsby-wordpress-novela-theme@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-novela-theme/-/gatsby-wordpress-novela-theme-1.0.4.tgz#922897f50dfb4d4c0ba51c87e059eee92d6144fd"
+  integrity sha512-sYrubRyPSIpfbD+53ugSRVqpeZrfwb7NsRGxPl6eLoc8lK0odqT9TaIkjqq9DYkU7LhqF0DkbLBUFkB6/Ijb1g==
   dependencies:
     "@armada-inc/gatsby-plugin-amp" "^0.2.3"
     "@blocks/kit" "^0.0.28"
