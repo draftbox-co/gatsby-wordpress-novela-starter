@@ -1094,14 +1094,14 @@
     theme-ui "^0.0.10"
     url-parse "^1.4.7"
 
-"@draftbox-co/gatsby-wordpress-novela-theme@^1.0.18":
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-novela-theme/-/gatsby-wordpress-novela-theme-1.0.18.tgz#1cdf7ae1fe5ef60d2397815bd9f87071a55933de"
-  integrity sha512-Yr0VkpABYqZJuyDkctXccvIhQw7H/PdP6vMGc1oJuGihBdsvY5lQsfIJB9t+xDM4IG5EEP5gwPma8YnreNyDJQ==
+"@draftbox-co/gatsby-wordpress-novela-theme@^1.0.19":
+  version "1.0.19"
+  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-novela-theme/-/gatsby-wordpress-novela-theme-1.0.19.tgz#0c8f6c6535175645057665dd08107dd1b70acc52"
+  integrity sha512-FH2Jr57JSR4UvfLYJriRBt6Z53ApMZpRrxyDhlGZ+fvrlaA02uiaKcqyVnKRp0UtD20Yl0VpsLwQF+/i0JYjsg==
   dependencies:
     "@armada-inc/gatsby-plugin-amp" "^0.2.3"
     "@blocks/kit" "^0.0.28"
-    "@draftbox-co/html-to-compiled-mdx" "^1.0.2"
+    "@draftbox-co/html-to-compiled-mdx" "^1.0.3"
     "@emotion/core" "^10.0.14"
     "@emotion/styled" "^10.0.14"
     "@mdx-js/mdx" "^1.6.5"
@@ -1153,7 +1153,7 @@
     react-facebook "^8.1.4"
     react-helmet "^5.2.1"
     react-live "^2.2.0"
-    react-medium-image-zoom "^4.0.2"
+    react-medium-image-zoom "^4.2.0"
     react-outside-click-handler "^1.2.4"
     reading-time "^1.2.0"
     remark-slug "^5.1.2"
@@ -1163,10 +1163,10 @@
     typeface-merriweather "^0.0.72"
     unist-util-visit "^2.0.2"
 
-"@draftbox-co/html-to-compiled-mdx@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@draftbox-co/html-to-compiled-mdx/-/html-to-compiled-mdx-1.0.2.tgz#59bb0f258d3313f68f4470002ba1d94d95704186"
-  integrity sha512-Mry/No53K2XV38lu8oTgtH3e9iQOLRMRt2vYv3jOoOhL7ta20I2mQLnRFf4KYiv7T1rpZqtWkC6hSa72CJbsXQ==
+"@draftbox-co/html-to-compiled-mdx@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@draftbox-co/html-to-compiled-mdx/-/html-to-compiled-mdx-1.0.3.tgz#22fbcb39c4534a5bd1692d52f9929ce567a03788"
+  integrity sha512-h8x/5sG/ecuXFjehqNbjy49lQrdYx1dQTXT1d5w3ujrQcG7or+yxsrVdHlsZLGCG76byvFh9ZUGLdw1HkIdJ0A==
   dependencies:
     "@babel/core" "7.2.0"
     "@babel/plugin-proposal-object-rest-spread" "7.10.1"
@@ -15435,7 +15435,7 @@ react-live@^2.2.0:
     react-simple-code-editor "^0.10.0"
     unescape "^1.0.1"
 
-react-medium-image-zoom@^4.0.2:
+react-medium-image-zoom@^4.2.0:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/react-medium-image-zoom/-/react-medium-image-zoom-4.3.1.tgz#4049db708791fc199714c6c6266169d75e8787e6"
   integrity sha512-BGJyidkJdhmBWxjtg3m0bNd14yK9MC8CdlhmsLNPK/Bd08SZdjLcJQRQX4RUvw9fanQWcI4gaiItHIXZnyctUw==
