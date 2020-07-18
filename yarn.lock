@@ -1094,10 +1094,10 @@
     minimatch "^3.0.4"
     react "^16.6.1"
 
-"@draftbox-co/gatsby-wordpress-novela-theme@^1.0.21":
-  version "1.0.21"
-  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-novela-theme/-/gatsby-wordpress-novela-theme-1.0.21.tgz#d4f8613a8b330160d926225c6e40dc0ec6762998"
-  integrity sha512-56hULx6m67tpITesi838ajAlQNZaYOF2iIzarLgiWkhUFyEiYd8n7YJYY6ptJfafEO/GP7YzX6nSlKPIrrXzsg==
+"@draftbox-co/gatsby-wordpress-novela-theme@^1.0.22":
+  version "1.0.22"
+  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-novela-theme/-/gatsby-wordpress-novela-theme-1.0.22.tgz#4104573f3852c9d5cee1b0fe151fa08fe438ca61"
+  integrity sha512-dVaAsZP+c84ZpEGouJmIRUvxNhsk3dieDl5vqxI917BH3i/TPYzT3EEmkJdCOyD3NNjYvRbdKR9BBT6lGU+rkg==
   dependencies:
     "@blocks/kit" "^0.0.28"
     "@draftbox-co/gatsby-plugin-amp" "^0.2.4"
