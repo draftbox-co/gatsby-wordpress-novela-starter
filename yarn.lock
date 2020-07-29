@@ -1129,10 +1129,10 @@
   dependencies:
     "@babel/runtime" "^7.10.5"
 
-"@draftbox-co/gatsby-wordpress-novela-theme@^1.0.26":
-  version "1.0.26"
-  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-novela-theme/-/gatsby-wordpress-novela-theme-1.0.26.tgz#12501e02a0aca610471d80180b5bfc02ccc08510"
-  integrity sha512-JEtl5xbhxk0ISkWUUsbfrpStbadlcHHfIBJFsMgJWdTHewcRgk7WwAeQRD4GLyQOw+DZts+qUkVTCLfslYJS6g==
+"@draftbox-co/gatsby-wordpress-novela-theme@^1.0.27":
+  version "1.0.27"
+  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-novela-theme/-/gatsby-wordpress-novela-theme-1.0.27.tgz#1966b13143ec89a3ce66c964263ed470bbc3838c"
+  integrity sha512-Hs03kq2H+1Z5ZzMSR9Erq7gmhc7q4Nc0oiWj5YPIggd3Sua7rMgtdnamXN/q1D1JVayFDT3MeaxPl19kSQFCVQ==
   dependencies:
     "@blocks/kit" "^0.0.28"
     "@draftbox-co/gatsby-plugin-amp" "^0.2.4"
