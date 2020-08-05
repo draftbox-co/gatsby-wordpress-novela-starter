@@ -1148,9 +1148,10 @@
     postcss "^7.0.17"
     postcss-js "^2.0.1"
 
-"@draftbox-co/gatsby-wordpress-novela-theme@https://github.com/draftbox-co/gatsby-wordpress-novela-theme/archive/draftbox-co-gatsby-wordpress-novela-theme-v1.0.27-alpha-3-gitpkg.tar.gz":
-  version "1.0.27-alpha-3"
-  resolved "https://github.com/draftbox-co/gatsby-wordpress-novela-theme/archive/draftbox-co-gatsby-wordpress-novela-theme-v1.0.27-alpha-3-gitpkg.tar.gz#5984cc2ed5bcbdb1805ad500ef1c13b8bc6e8358"
+"@draftbox-co/gatsby-wordpress-novela-theme@1.0.28":
+  version "1.0.28"
+  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-novela-theme/-/gatsby-wordpress-novela-theme-1.0.28.tgz#e3d444286e22b2642f0e5751e4accb368e03eae0"
+  integrity sha512-UGvYhCAlEUlGZKdQLoVz/ivag8k0rw8BUCFy2qEGOhLBknwF6JqTwo+T/49Z3Zmn+IpTzD8e3Y8QNXMck6o5wg==
   dependencies:
     "@blocks/kit" "^0.0.28"
     "@draftbox-co/gatsby-plugin-amp" "^0.2.4"

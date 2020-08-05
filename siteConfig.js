@@ -4,7 +4,8 @@ module.exports = {
   postsPerPage: 10, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
   siteTitleMeta: "Built with Draftbox", // This allows an alternative site title for meta data for pages.
-  siteDescriptionMeta: "New-age blogging platform", // This allows an alternative site description for meta data for pages.
+  siteDescriptionMeta:
+    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
@@ -15,6 +16,7 @@ module.exports = {
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
+    visible: true,
     title: "Subscribe to Draftbox",
     helpText: "Get the latest posts delivered right to your inbox.",
     successMessage: "Thanks for subscribing to Draftbox.",
@@ -62,6 +64,12 @@ module.exports = {
     instagram: "https://www.instagram.com/",
     linkedin: "https://linkedin.com/",
     github: "https://github.com/draftbox-co",
+    pinterest: "",
+    youtube: "",
+    dribbble: "",
+    behance: "",
+    externalLink: "",
+    whatsapp: "",
   },
   contactWidget: {
     title: "Contact Built with Draftbox",
@@ -94,4 +102,62 @@ module.exports = {
   iconUrl: "favicon.png",
   coverUrl: "cover.jpg",
   alternateLogoUrl: "logo.png",
+  themeConfig: {
+    variables: [
+      { varName: "--accent-color", value: "#6166DC" },
+      { varName: "--accent-color-dark", value: "#E9DAAC" },
+      { varName: "--success-color", value: "#46B17B" },
+      { varName: "--success-color-dark", value: "#46B17B" },
+      {
+        varName: "--merriweather-font",
+        value: `Merriweather`,
+      },
+      {
+        varName: "--merriweather-font-bold",
+        value: `700`,
+      },
+      {
+        varName: "--system-font",
+        value: `system-ui`,
+      },
+      {
+        varName: "--system-font-normal",
+        value: `400`,
+      },
+      {
+        varName: "--system-font-semibold",
+        value: `600`,
+      },
+      {
+        varName: "--system-font-bold",
+        value: `700`,
+      },
+      {
+        varName: "--monospace-font",
+        value: `Source Code Pro`,
+      },
+      {
+        varName: "--monospace-font-normal",
+        value: `400`,
+      },
+    ],
+    fonts: [
+      {
+        family: "Merriweather",
+        variants: ["700"],
+        //subsets: ['latin']
+        //text: 'Hello'
+        fontDisplay: "swap",
+        strategy: "selfHosted", // 'base64' || 'cdn'
+      },
+      {
+        family: "Source Code Pro",
+        variants: ["400"],
+        //subsets: ['latin']
+        //text: 'Hello'
+        fontDisplay: "swap",
+        strategy: "selfHosted", // 'base64' || 'cdn'
+      },
+    ]
+  }
 };
