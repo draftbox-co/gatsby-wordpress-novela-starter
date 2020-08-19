@@ -98,10 +98,10 @@ module.exports = {
   siteDescription:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
   language: "en",
-  logoUrl: "logo-thick.svg",
+  logoUrl: "logo.svg",
   iconUrl: "favicon.png",
   coverUrl: "cover.jpg",
-  alternateLogoUrl: "logo.png",
+  alternateLogoUrl: "alternateLogo.svg",
   themeConfig: {
     variables: [
       { varName: "--accent-color", value: "#6166DC" },
